@@ -1,5 +1,8 @@
 # openrouter-rag
 
+## Colab Notebook Link
+https://colab.research.google.com/drive/15f-GIZZ1rHOm0Kr4KP5BUMoSFHey9DgE?usp=sharing 
+
 ## Description
 The `openrouter-rag` project implements the Open Router Chat and RAG (Retrieve, Augment, Generate) processes. It includes functionality for loading documents, splitting text, creating embeddings, and querying a language model. This project leverages various libraries to facilitate document processing and interaction with the OpenRouter API.
 
